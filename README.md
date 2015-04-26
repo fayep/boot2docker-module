@@ -9,8 +9,7 @@ Usage
 
 * copy kernel_config to module_config
 * edit module_config to taste
-* run:
-    $ mkmod <tarballname>
+* run: `$ mkmod <tarballname>`
 
 ### To do
 
