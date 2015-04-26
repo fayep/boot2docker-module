@@ -4,7 +4,8 @@ boot2docker-module
 boot2docker-module is a Docker container which conveniently exports a tarball
 of modules for use with boot2docker (your current version).
 
-#### How to use
+Usage
+-----
 
 * copy kernel_config to module_config
 * edit module_config to taste
